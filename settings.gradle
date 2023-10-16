@@ -1,0 +1,5 @@
+rootProject.name = 'Servicii_REST'
+include 'Game_Model'
+include 'Game_Persistence'
+include 'Game_REST'
+
